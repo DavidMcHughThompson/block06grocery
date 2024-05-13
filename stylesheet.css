@@ -1,14 +1,18 @@
 .produce {
+  margin: 20px;
   text-align: ;
   background-color: rgba(206, 105, 177, 0.437);
 }
 .meat {
+  margin: 20px;
   background-color: rgba(206, 105, 177, 0.437);
 }
 .ingredients {
+  margin: 20px;
   background-color: rgba(206, 105, 177, 0.437);
 }
 .householdSupplies {
+  margin: 20px;
   background-color: rgba(206, 105, 177, 0.437);
 }
 
@@ -20,7 +24,4 @@ h1 {
 }
 h2 {
   background-color: blueviolet;
-}
-body {
-  background-color: aquamarine;
 }
